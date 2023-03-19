@@ -1,1 +1,0 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wurst720&theme=dark&hide_border=true&fire=B44A55&ring=903B44&background=481D22&stroke=C36E77&currStreakLabel=D29299&sideNums=E1B6BB&currStreakNum=E1B6BB&sideLabels=D29299&dates=C36E77)](https://git.io/streak-stats)
